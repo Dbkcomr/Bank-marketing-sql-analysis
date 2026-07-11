@@ -1,5 +1,5 @@
 # Bank-marketing-sql-analysis
-SQL analysis of a bank telemarketing campaign with postgresql
+SQL analysis of a bank telemarketing campaign with PostgreSQL
 
 # Banka Telepazarlama Kampanyası — SQL Müşteri Analizi
 

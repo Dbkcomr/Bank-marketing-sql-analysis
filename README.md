@@ -65,7 +65,7 @@ genç kesimin %17.6 evet yüzdesi var, orta kesimin %9.9 evet yüzdesi var, yaş
 ### 8. Arama Sayısı (Campaign)
 İlk kez arananlar %14.6 sonra monoton bir şekilde azalıyor. Yani tekrar tekrar aramanın verimi düşük.
 
-### 9. Geçmiş Temas (previous)
+### 9. Geçmiş Temas (Previous)
 Daha önce arananlar müşteriler yüzde %23.07 evet yüzdesine sahip, daha önce hiç aranmamış müşteriler %9.16 evet yüzdesine sahip. Poutcome sutunundakı unknownun da yüzdesi aklaşık %9'du, yani birbirlerini doğruluyorlar.
 
 

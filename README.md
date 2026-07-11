@@ -45,7 +45,7 @@ mevduata çok sıcak bakıyorlar.
 
 
 
-###3. Bekarlık
+### 3. Bekarlık
 Bekarların ortalaması yaklaşık %15, öğrencileri çıkarınca bu durum yaklaşık %14’e düşüyor. Bu değişkenler birbirinden bağımsız.
 
 ### 4. Bakiye Merdiveni
